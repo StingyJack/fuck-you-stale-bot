@@ -52,6 +52,8 @@ all the reasons that lead to the existence of the Stale bot in the first place.
 
 ## What Has The Stale Bot Ruined Most Recently
 
+Everything. (I have not yet set up CI which updates this readme regularly.)
+
 <!-- data -->
 <!-- /data -->
 
