@@ -50,6 +50,8 @@ and reports its acts for me to shake my head at. I am curious how much damage it
 causes, but I don't think there is a way forward which is less complicated than
 all the reasons that lead to the existence of the Stale bot in the first place.
 
+This also extends to other bots that exhibit similar behaviors, like the [docker-for-desktop-robot](https://github.com/docker/for-win/issues/2953).
+
 ## What Has The Stale Bot Ruined Most Recently
 
 Everything. (I have not yet set up CI which updates this readme regularly.)
