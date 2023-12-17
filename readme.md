@@ -1,3 +1,7 @@
+*This has been forked from the original and I claim no authorship, but I do claim full agreement with these words and the sentiment they describe. If you
+find the following to be too harsh, opinionated, non-constructive, or are just someone who is easily offended, then I would suggest taking a look at the 
+less firey breakdown at https://fvsch.com/stale-bots.*
+
 # Fuck You Stale Bot
 
 Stale bot is a GitHub bot account which through a GitHub App integration can be
